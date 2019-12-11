@@ -21,11 +21,9 @@
     font-size: 5.0rem;
   }
 
-  .App {
-      background-color:red;
-    }
-  
-    .SpecialButton {
-        background-color: blue;
+.operator_button{
+  background-color: rgb(0, 162, 255);
+  color: white;
+  display: flex;
       }
-      
+  

@@ -2,7 +2,6 @@ import React from "react";
 
 //import any components needed
 import SpecialButton from './SpecialButton.js';
-import SpecialButtons from './SpecialButtons.css';
 
 //Import your array data to from the provided data file
 import { specials } from '../../../data.js';
@@ -21,5 +20,8 @@ const Specials = (props) => {
     </div>
   );
 };
+
+
+
 
 export default Specials

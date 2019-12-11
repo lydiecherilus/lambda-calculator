@@ -21,5 +21,8 @@ const Operators = (props) => {
   );
 };
 
+//const operatorElement = document.querySelector('operators');
+console.log(operators)
+
 export default Operators;
 
