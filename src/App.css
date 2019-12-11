@@ -20,3 +20,12 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+
+  .App {
+      background-color:red;
+    }
+  
+    .SpecialButton {
+        background-color: blue;
+      }
+      
